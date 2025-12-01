@@ -61,3 +61,4 @@ Wine Data.pbix – Full Power BI dashboard
 
 Wine Data.pdf – Exported dashboard report
 
+Wine Data.xlsx - Both wines data 
