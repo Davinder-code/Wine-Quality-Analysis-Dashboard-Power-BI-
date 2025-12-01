@@ -36,7 +36,7 @@ This is one of the strongest relationships in the dataset.
 Charts examining chlorides, fixed acidity, pH, sulphates, sulfur dioxide, and density reveal how each component influences wine quality. 
 These visuals show differences between red and white wines and illustrate how chemical balance affects flavor, stability, and overall rating.
 
-#Scatter Plots for Deeper Exploration
+# Scatter Plots for Deeper Exploration
 
 Scatter plots of citric acid, pH, and residual sugar help visualize the spread of values and reveal clustering patterns across different quality levels.
 
