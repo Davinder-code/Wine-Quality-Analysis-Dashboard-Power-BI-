@@ -58,5 +58,6 @@ It strengthened my ability to transform raw data into a structured story, which 
 # Files Included
 
 Wine Data.pbix – Full Power BI dashboard
+
 Wine Data.pdf – Exported dashboard report
 
